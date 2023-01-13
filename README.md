@@ -8,6 +8,6 @@ blog app in django
 3. source venv/bin/activate
 4. pip install Django
 5. python manage.py createsuperuser 
-6. python manage.py makemigrations blog
-7. python manage.py migrate blog
+6. python manage.py makemigrations posts
+7. python manage.py migrate posts
 8. python manage.py run server and then go to http://localhost:8000/
